@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/marcoswebermw/tutorial-travis-coveralls-landscape.svg?branch=master)](https://travis-ci.org/marcoswebermw/tutorial-travis-coveralls-landscape)
+
 # tutorial-travis-coveralls-landscape
 Repositório de treinamento baseado no seguinte tutorial http://pythonclub.com.br/python-com-unittest-travis-ci-coveralls-e-landscape-parte-1-de-4.html
 
